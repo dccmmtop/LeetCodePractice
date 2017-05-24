@@ -1,0 +1,6 @@
+```ruby
+def is_palindrome(x)
+	 y=x.to_s.reverse
+	 return y==x.to_s
+end
+```
